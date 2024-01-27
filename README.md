@@ -1,13 +1,13 @@
 # Hi there, I'm Mehran Rasulian! 👋
 
-Welcome to my GitHub profile! I'm a dedicated software developer with a passion for crafting robust web applications. My tech stack includes Laravel, PHP, Vue.js, and I have a knack for creating visually appealing designs using Tailwind CSS. Alongside, I'm deeply involved in the world of QA Automation.
+I'm a dedicated software developer with a passion for crafting robust web applications. My tech stack includes Laravel, PHP, Vue.js, and Tailwind CSS for creating visually appealing designs. On top of that, I'm heavily involved in QA automation.
 
 ## 🔧 Technologies & Tools
 
 - **Backend:** Laravel, PHP
 - **Frontend:** Vue.js, HTML, CSS (with a focus on Tailwind CSS)
 - **Containerization:** Docker
-- **Testing:** QA Automation
+- **Testing:** QA Automation, PHPUnit, PestPHP
 
 ## 🌱 Currently Learning
 
