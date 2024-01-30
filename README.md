@@ -5,9 +5,9 @@ I'm a dedicated software developer with a passion for crafting robust web applic
 ## 🔧 Technologies & Tools
 
 - **Backend:** Laravel, PHP
-- **Frontend:** Vue.js, HTML, CSS (with a focus on Tailwind CSS)
+- **Frontend:** Vue.js, Tailwind CSS
 - **Containerization:** Docker
-- **Testing:** QA Automation, PHPUnit, PestPHP
+- **Testing:** PHPUnit, PestPHP
 
 ## 🌱 Currently Learning
 
@@ -15,7 +15,7 @@ I'm actively expanding my knowledge in Kubernetes for container orchestration an
 
 ## 💼 Looking to Collaborate On
 
-I am open to collaborating on 100% remote projects that align with my skills and interests. Whether it's building robust web applications, implementing a RESTful API for SPA or mobile application, or automating QA for Laravel Forge servers for cross-functional teams, count me in!
+I am open to collaborating on 100% remote projects that align with my skills and interests. Whether it's building robust web applications, implementing a RESTful API for SPA or mobile application, or QA automation on Laravel Forge servers for cross-functional teams, count me in!
 
 ## 📫 How to Reach Me
 
