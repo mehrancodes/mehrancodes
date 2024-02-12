@@ -1,6 +1,6 @@
 # Hi there, I'm Mehran Rasulian! 👋
 
-I'm a dedicated software developer with a passion for crafting robust web applications. My tech stack includes Laravel, PHP, Vue.js, and Tailwind CSS for creating visually appealing designs. On top of that, I'm heavily involved in QA automation.
+I'm a dedicated software developer with a passion for crafting robust web applications. My tech stack includes Laravel, PHP, Vue.js, and Tailwind CSS for creating visually appealing designs. On top of that, I'm heavily involved in QA workflow automation.
 
 ## 🔧 Technologies & Tools
 
@@ -15,7 +15,7 @@ I'm actively expanding my knowledge in Kubernetes for container orchestration an
 
 ## 💼 Looking to Collaborate On
 
-I am open to collaborating on 100% remote projects that align with my skills and interests. Whether it's building robust web applications, implementing a RESTful API for SPA or mobile application, or QA automation on Laravel Forge servers for cross-functional teams, count me in!
+I am open to collaborating on 100% remote projects that align with my skills and interests. Whether it's building robust web applications, implementing a RESTful API for SPA or mobile application, or QA workflow automation on Laravel Forge servers for cross-functional teams, count me in!
 
 ## 📫 How to Reach Me
 
